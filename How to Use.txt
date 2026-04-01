@@ -1,0 +1,1 @@
+To effectively use this just make sure to add this to your PATH => poppler-25.12.0\Library\bin
