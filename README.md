@@ -1,0 +1,1 @@
+This code simply allows you to change your blackish pdf to whitish. Yeah that's it.
